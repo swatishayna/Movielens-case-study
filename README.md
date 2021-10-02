@@ -43,42 +43,17 @@ All demographic information is provided voluntarily by the users and is not chec
 
 Gender is denoted by an "M" for male and "F" for female
 Age is chosen from the following ranges:
- 
 
-Value	Description
-1	"Under 18"
-18	"18-24"
-25	"25-34"
-35	"35-44"
-45	"45-49"
-50	"50-55"
-56	"56+"
+
+![age](https://user-images.githubusercontent.com/30625979/135703590-9fee0f1c-9bba-432c-8a6d-3e36f2efaf7e.png)
  
 
 Occupation is chosen from the following choices:
-Value
- 	Description
-0	"other" or not specified
-1	"academic/educator"
-2	"artist”
-3	"clerical/admin"
-4	"college/grad student"
-5	"customer service"
-6	"doctor/health care"
-7	"executive/managerial"
-8	"farmer"
-9	"homemaker"
-10	"K-12 student"
-11	"lawyer"
-12	"programmer"
-13	"retired"
-14	 "sales/marketing"
-15	"scientist"
-16	 "self-employed"
-17	"technician/engineer"
-18	"tradesman/craftsman"
-19	"unemployed"
-20	"writer”
+
+
+![occupation1](https://user-images.githubusercontent.com/30625979/135703569-935ab364-e96a-478c-9d7b-7276b99a4b27.png)
+![occupation2](https://user-images.githubusercontent.com/30625979/135703580-544dc5de-894e-4a2c-ba04-b2c09b92e08c.png)
+
 
 ## Movies.dat
 - Format - MovieID::Title::Genres
